@@ -17,6 +17,7 @@ $GLOBALS['first_is_op'] = true;
 $GLOBALS['pfc_hooks'] = array();
 
 
+
 // HOOK - pfc.before.auth
 // Can be used to automaticaly login to the chat 
 // with your own auth system (forum, ldap, database, sso ...)
